@@ -1,9 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <Description>An implementation of ICsvParser and ICsvSerializer from CsvHelper that reads and writes using the ClosedXml library. Updated for CsvHelper >= 30.0.1 and ClosedXML >= 0.101.0.   Forked from CsvHelper.Excel by Chris Young</Description>
+    <Description>An implementation of ICsvParser and ICsvSerializer from CsvHelper that reads and writes using the ClosedXml library.</Description>
     <AssemblyTitle>CsvHelper for Excel</AssemblyTitle>
-    <VersionPrefix>30.0.1</VersionPrefix>    
-    <Authors>Joost Meulenkamp</Authors>
+    <VersionPrefix>31.0.3</VersionPrefix>
+    <Authors>Chris Young</Authors>
     <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
     <DebugType>portable</DebugType>
     <AssemblyName>CsvHelper.Excel</AssemblyName>
